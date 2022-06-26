@@ -4,7 +4,7 @@
 ## A simple Flappy Bird Clone made in windows forms .
 > This is a project made out of complete boredom , do not take it seriously.
 > 
-> These are the raw files download and load them in an IDE , I dont know if i will make an .EXE extension for it. 
+> These are the raw files download and load them in an IDE. 
 
 ## Controls
 
